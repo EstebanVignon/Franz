@@ -1,0 +1,13 @@
+{
+  "id": "devto",
+  "name": "Dev.to",
+  "version": "1.0.0",
+  "description": "Dev.to Community",
+  "main": "index.js",
+  "author": "Esteban Vignon <contact@esteban-vignon.fr>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://dev.to/",
+    "hasNotificationSound": true
+  }
+}
